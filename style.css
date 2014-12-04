@@ -6884,20 +6884,7 @@ input, textarea {
   margin-top: 90px;
 }
 
-#more-site {
-  margin-top: 50px;
-  border: 1px solid #fff;
-  color: #fff;
-  font-weight: normal;
-  padding: 10px 25px;
-  display: none;
-  background: transparent;
-}
-#more-site:hover {
-  background: rgba(0, 0, 0, 0.1);
-  border-color: #fff;
-  color: #fff;
-}
+
 .only-on-home #more-site {
   display: inline-block;
 }
