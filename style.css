@@ -816,7 +816,7 @@ pre code {
 
 .pre-scrollable {
   max-height: 340px;
-  overflow-y: scroll;
+  overflow-y: no-scroll;
 }
 
 .container {
@@ -1993,7 +1993,7 @@ table th[class*="col-"] {
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
-    overflow-x: scroll;
+    overflow-x: no-scroll;
     overflow-y: hidden;
     border: 1px solid #dddddd;
     -ms-overflow-style: -ms-autohiding-scrollbar;
